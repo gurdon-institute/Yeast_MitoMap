@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Richard Butler/workspace/ij.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Programs/Fiji.app/plugins/3D_Viewer.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Richard Butler/workspace/bio-formats-lib/bioformats.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Programs/Fiji.app/jars/VIB-lib-2.0.0-SNAPSHOT.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Richard Butler/workspace/Java3D/1.5.1/lib/ext/j3dcore.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Richard Butler/workspace/Java3D/1.5.1/lib/ext/j3dutils.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Richard Butler/workspace/Java3D/1.5.1/lib/ext/vecmath.jar"/>
+	<classpathentry kind="output" path="plugins/"/>
+</classpath>
