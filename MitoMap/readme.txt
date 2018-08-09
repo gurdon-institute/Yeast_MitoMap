@@ -1,0 +1,1 @@
+To install a plugin, put the file in the Fiji.app/Plugins/ folder and restart Fiji or run Help/Refresh Menus. To access the relevant part of the filesystem under MacOS, Ctrl-click on the Fiji application icon to open the contextual menu and click "Show Package Contents”.
